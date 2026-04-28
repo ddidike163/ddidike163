@@ -1,7 +1,7 @@
 # Hola, soy Diego (Didike) 👋
 
-Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital,
-cursando el 5° cuatrimestre en camino al 6° (estadías profesionales).
+Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital,  
+cursando el 5° cuatrimestre en camino al 6° (estadías profesionales).  
 Técnico Profesional en Programación con experiencia práctica en desarrollo de software.
 
 ## 🛠️ Tecnologías
@@ -15,17 +15,17 @@ Técnico Profesional en Programación con experiencia práctica en desarrollo de
 
 ## 🚀 Proyecto actual
 
-**Sistema de Alertas de Emergencia en Tiempo Real**
-Plataforma para el Ayuntamiento de Apizaco que permite reportar emergencias
+**Sistema de Alertas de Emergencia en Tiempo Real**  
+Plataforma para el Ayuntamiento de Apizaco que permite reportar emergencias  
 desde una app móvil y gestionarlas desde un panel web centralizado.
 
 `Django REST Framework` · `PostgreSQL` · `React` · `React Native` · `WebSockets`
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddidike163&show_icons=true&theme=tokyonight&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddidike163&show_icons=true&theme=tokyonight&locale=es&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddidike163&layout=compact&theme=tokyonight&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddidike163&layout=compact&theme=tokyonight&locale=es&count_private=true)
 
 ## 📫 Contacto
 
