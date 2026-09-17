@@ -1,7 +1,7 @@
 # Hola, soy Diego (Didike) 👋
 
 Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital,  
-cursando el 5° cuatrimestre en camino al 6° (estadías profesionales).  
+cursando el 7° cuatrimestre en camino al 8°.  
 Técnico Profesional en Programación con experiencia práctica en desarrollo de software.
 
 ## 🛠️ Tecnologías
