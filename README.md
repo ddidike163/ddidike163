@@ -21,11 +21,6 @@ desde una app móvil y gestionarlas desde un panel web centralizado.
 
 `Django REST Framework` · `PostgreSQL` · `React` · `React Native` · `WebSockets`
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddidike163&show_icons=true&theme=tokyonight&locale=es&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddidike163&layout=compact&theme=tokyonight&locale=es&count_private=true)
 
 ## 📫 Contacto
 
